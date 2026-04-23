@@ -1,6 +1,6 @@
 # Book Tracker - Трекер прочитанных книг
 
-**Автор:** Колесников Илья
+**Автор:** Иван Петров
 
 ## Описание программы
 
@@ -25,3 +25,5 @@ Book Tracker - это графическое приложение на Python д
 
 1. Скачайте или клонируйте репозиторий:
 ```bash
+git clone https://github.com/yourusername/book_tracker.git
+cd book_tracker
