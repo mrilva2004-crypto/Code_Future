@@ -25,6 +25,3 @@ Book Tracker - это графическое приложение на Python д
 
 1. Скачайте или клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/book_tracker.git
-cd book_tracker
-
